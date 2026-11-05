@@ -1,0 +1,7 @@
+/Users/MacBookPro_fuwei/AI-Projects/java-demo/src/main/java/com/example/usermanagement/UserManagementApplication.java
+/Users/MacBookPro_fuwei/AI-Projects/java-demo/src/main/java/com/example/usermanagement/controller/UserController.java
+/Users/MacBookPro_fuwei/AI-Projects/java-demo/src/main/java/com/example/usermanagement/dto/ApiResponse.java
+/Users/MacBookPro_fuwei/AI-Projects/java-demo/src/main/java/com/example/usermanagement/dto/UserRequest.java
+/Users/MacBookPro_fuwei/AI-Projects/java-demo/src/main/java/com/example/usermanagement/model/User.java
+/Users/MacBookPro_fuwei/AI-Projects/java-demo/src/main/java/com/example/usermanagement/repository/UserRepository.java
+/Users/MacBookPro_fuwei/AI-Projects/java-demo/src/main/java/com/example/usermanagement/service/UserService.java
